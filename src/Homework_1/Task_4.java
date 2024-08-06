@@ -5,7 +5,7 @@ package Homework_1;
 public class Task_4 {
     public static void main(String[] args) {
         double n = 26.75; // объявление переменной n и назначение ее типа
-        double free_n = Math.round(n);
+        int free_n = (int) n;
         /* объявление переменной free_n и назначение ее типа. Возвращает округленное значение переменной n */
 
         System.out.println(free_n);
