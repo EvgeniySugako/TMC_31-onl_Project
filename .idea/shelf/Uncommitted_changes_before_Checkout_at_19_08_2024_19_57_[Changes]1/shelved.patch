@@ -1,0 +1,169 @@
+Index: src/Homework_1/Task_2.java
+===================================================================
+diff --git a/src/Homework_1/Task_2.java b/src/Homework_1/Task_2.java
+deleted file mode 100644
+--- a/src/Homework_1/Task_2.java	
++++ /dev/null	
+@@ -1,20 +0,0 @@
+-package Homework_1;
+-/* В переменной n хранится двузначное число. Создайте программу, вычисляющую и выводящую на экран сумму цифр n.
+-Например: n =26, в результате мы должны получить 8 (2+6) */
+-
+-public class Task_2 {
+-    public static void main(String[] args) {
+-        double n = 26f; // объявление переменной n и назначение ее типа
+-        double one = n / 10; // объявление переменной one и назначение ее типа. Деление 26 на 10
+-        int oneX = (int) one;
+-        /* объявление переменной oneX и назначение ее типа.
+-        Преобразование в int результата вычисления переменной one */
+-        double two = n % 10;
+-        /* объявление переменной two и назначение ее типа.
+-        Остаток от деления n/10 */
+-        double sum = oneX + two; // объявление переменной sum и назначение ее типа. Сумма переменных oneX и two
+-        int SUMM = (int) sum; // объявление переменной SUMM и назначение ее типа. Преобразование double в int
+-
+-        System.out.println(SUMM);
+-    }
+-}
+\ No newline at end of file
+Index: src/Homework_1/Task_1.java
+===================================================================
+diff --git a/src/Homework_1/Task_1.java b/src/Homework_1/Task_1.java
+deleted file mode 100644
+--- a/src/Homework_1/Task_1.java	
++++ /dev/null	
+@@ -1,13 +0,0 @@
+-package Homework_1;
+-/* Написать приложение, которое будет вычислять и выводить значение по формуле:
+-a=4*(b+c-1)/2; b и c задаем в коде самостоятельно */
+-
+-public class Task_1 {
+-    public static void main(String[] args) { //точка входа
+-        int b = 2; // объявление переменной b и назначение ее типа
+-        int c = 3; // объявление переменной c и назначение ее типа
+-        int a = (4 * (b + c - 1) / 2); // объявление переменной a и назначение ее типа
+-
+-        System.out.println("a=" + a);
+-    }
+-}
+\ No newline at end of file
+Index: src/Homework_1/Task_5.java
+===================================================================
+diff --git a/src/Homework_1/Task_5.java b/src/Homework_1/Task_5.java
+deleted file mode 100644
+--- a/src/Homework_1/Task_5.java	
++++ /dev/null	
+@@ -1,17 +0,0 @@
+-package Homework_1;
+-/* В переменных q и w хранятся два натуральных числа. Создайте программу, выводящую на экран результат деления
+-q на w с остатком. Пример вывода программы (для случая, когда в q хранится 21, а в w хранится 8):
+-21 / 8 = 2 и 5 в остатке */
+-
+-public class Task_5 {
+-    public static void main(String[] args) {
+-        int q = 21; // объявление переменной q и назначение ее типа
+-        int w = 8; // объявление переменной w и назначение ее типа
+-        int Del = q / w; // объявление переменной ResDel и назначение ее типа. Деление q на w
+-        int ResDel = q / w; // объявление переменной ResDel и назначение ее типа. Деление q на w
+-        int OstDel = q % w;
+-        /* объявление переменной OstDel и назначение ее типа. Остаток от деления q/w */
+-
+-        System.out.println(q + " / " + w + " = " + Del + " и " + OstDel + " в остатке");
+-    }
+-}
+Index: src/Homework_1/Task_4.java
+===================================================================
+diff --git a/src/Homework_1/Task_4.java b/src/Homework_1/Task_4.java
+deleted file mode 100644
+--- a/src/Homework_1/Task_4.java	
++++ /dev/null	
+@@ -1,14 +0,0 @@
+-package Homework_1;
+-/* В переменной n хранится вещественное число с ненулевой дробной частью. Создайте программу, округляющую число n
+-до ближайшего целого и выводящую результат на экран */
+-
+-public class Task_4 {
+-    public static void main(String[] args) {
+-        double n = 26.75; // объявление переменной n и назначение ее типа
+-        int free_n = (int) n;
+-        /* объявление переменной free_n и назначение ее типа. Возвращает округленное значение переменной n */
+-
+-        System.out.println(free_n);
+-    }
+-}
+-
+Index: src/Homework_1/Task_3.java
+===================================================================
+diff --git a/src/Homework_1/Task_3.java b/src/Homework_1/Task_3.java
+deleted file mode 100644
+--- a/src/Homework_1/Task_3.java	
++++ /dev/null	
+@@ -1,28 +0,0 @@
+-package Homework_1;
+-/* В переменной n хранится трёхзначное число. Создайте программу, вычисляющую и выводящую на экран сумму цифр n.
+-Например: n =126, в результате мы должны получить 9 (1+2+6) */
+-
+-public class Task_3 {
+-    public static void main(String[] args) {
+-        double n = 126f; // объявление переменной n и назначение ее типа
+-        double one = n / 100; // объявление переменной one и назначение ее типа. Деление 126 на 100
+-        int oneX = (int) one;
+-        /* объявление переменной oneX и назначение ее типа.
+-        Преобразование в int результата вычисления переменной one */
+-        double two = n % 100;
+-        /* объявление переменной two и назначение ее типа.
+-        Остаток от деления n/100 */
+-        double twoX = two / 10; // объявление переменной twoX и назначение ее типа. Деление 26 на 10
+-        int twoY = (int) twoX;
+-        /* объявление переменной twoY и назначение ее типа.
+-        Преобразование в int результата вычисления переменной twoX */
+-        double three = two % 10;
+-        /* объявление переменной three и назначение ее типа.
+-        Остаток от деления two/10 */
+-        double sum = oneX + twoY + three;
+-        /* объявление переменной sum и назначение ее типа. Сумма переменных oneX, twoY и three */
+-        int SUMM = (int) sum; // объявление переменной SUMM и назначение ее типа. Преобразование double в int
+-
+-        System.out.println(SUMM);
+-    }
+-}
+Index: src/Homework_1/Task_Dop.java
+===================================================================
+diff --git a/src/Homework_1/Task_Dop.java b/src/Homework_1/Task_Dop.java
+deleted file mode 100644
+--- a/src/Homework_1/Task_Dop.java	
++++ /dev/null	
+@@ -1,33 +0,0 @@
+-package Homework_1;
+-/*Написать программу которая будет менять местами значение целочисленных переменных. Пример:
+-int a = 1; int b = 2;
+-//код (ваше решение) sout(a); //выведет 2 sout(b); //выведет 1
+-Усовершенствовать программу, использовать только 2 входные переменные (a,b) */
+-
+-public class Task_Dop {
+-    public static void main(String[] args) {
+-        int a = 1; // объявление переменной a и назначение ее типа
+-        int b = 2; // объявление переменной b и назначение ее типа
+-        int obmen = a;
+-        /* объявление переменной obmen и назначение ее типа. Передача ей временно для хранения значение a */
+-        a = b;
+-        /* в a передаём значение b */
+-        b = obmen;
+-        /* в b присваиваем значение, которое у нас хранится в переменной obmen */
+-
+-        System.out.println(" a = " + a);
+-        System.out.println(" b = " + b);
+-
+-        /* Усовершенствование программы, использование только 2 входные переменные (c,d) */
+-
+-        int c = 1; // объявление переменной c и назначение ее типа
+-        int d = 2; // объявление переменной d и назначение ее типа
+-        c = c + d;
+-        d = c - d;
+-        c = c - d;
+-
+-        System.out.println(" c = " + c);
+-        System.out.println(" d = " + d);
+-    }
+-}
+-

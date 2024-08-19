@@ -1,0 +1,15 @@
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><changelist name=\"Uncommitted_changes_before_rebase_[Changes]\" date=\"1723302087486\" recycled=\"true\" deleted=\"true\">\r\n  <option name=\"PATH\" value=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch\" />\r\n  <option name=\"DESCRIPTION\" value=\"Uncommitted changes before rebase [Changes]\" />\r\n</changelist>
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+--- a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml	
++++ b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml	
+@@ -1,4 +1,4 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1723302087486" recycled="true" deleted="true">
++<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1724085327047" recycled="true" deleted="true">
+   <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+   <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+ </changelist>
+\ No newline at end of file

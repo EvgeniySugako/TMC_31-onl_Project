@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/src/Homework_4/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_5/Task_1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_6/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_6/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_Dop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +86,7 @@
     "Application.Task_Dop.executor": "Run",
     "Application.Task_from_1_to_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Homework__4",
+    "git-widget-placeholder": "Homework__5",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
