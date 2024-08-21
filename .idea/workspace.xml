@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/src/Homework_7/Dentist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework_7/Doctors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework_7/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework_7/Surgeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework_7/Therapist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_Dop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
