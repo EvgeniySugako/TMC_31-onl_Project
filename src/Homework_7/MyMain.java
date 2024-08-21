@@ -14,6 +14,7 @@ public class MyMain {
         };
         for (Doctors doctor : clinic) {
             System.out.println(doctor.getDoctorFullInformation());
+            doctor.treatment();
             System.out.println("_______________________________________________________________");
         }
 

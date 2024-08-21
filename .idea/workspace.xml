@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="New">
+    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Delete homework_3">
+      <change afterPath="$PROJECT_DIR$/src/Homework_7/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_7/Dentist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_7/Dentist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_7/Doctors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_7/Doctors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_7/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_7/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_7/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_7/Surgeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_7/Therapist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_7/Therapist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723302431497</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New">
+      <option name="closed" value="true" />
+      <created>1724269919702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724269919703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Delete homework_3">
+      <option name="closed" value="true" />
+      <created>1724270109172</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724270109172</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -224,7 +246,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="New" />
-    <option name="LAST_COMMIT_MESSAGE" value="New" />
+    <MESSAGE value="Delete homework_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete homework_3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

@@ -10,6 +10,10 @@ public class Doctors {
         this.doctorName = doctorName;
         this.doctorAge = doctorAge;
     }
+
+    void treatment () {
+        System.out.println("Все вылечим...");
+    }
     String getDoctorFullInformation () {
         return "doctorTypes: " + this.doctorTypes + "\n" +
                 "doctorName: " + this.doctorName + "\n" +
