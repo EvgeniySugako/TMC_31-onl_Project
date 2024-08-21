@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/src/Homework_3/Task_from_1_to_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_7/Dentist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_7/Doctors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_7/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_7/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_7/Therapist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_1/Task_Dop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,21 +81,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MyMain.executor": "Run",
     "Application.Task_1.executor": "Run",
     "Application.Task_2.executor": "Run",
     "Application.Task_3.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
     "Application.Task_Dop.executor": "Run",
+    "Application.Task_from_1_to_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Homework__3",
+    "git-widget-placeholder": "Homework__7",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_from_1_to_5">
+  <component name="RunManager" selected="Application.MyMain">
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_7.MyMain" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework_1.Task_2" />
       <module name="Homework" />
@@ -140,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.Task_from_1_to_5" />
         <item itemvalue="Application.Task_4" />
         <item itemvalue="Application.Task_3" />
         <item itemvalue="Application.Task_2" />
-        <item itemvalue="Application.Task_4" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +199,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722957735436</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New">
+      <option name="closed" value="true" />
+      <created>1723301606732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723301606732</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New">
+      <option name="closed" value="true" />
+      <created>1723302431497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723302431497</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
