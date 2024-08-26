@@ -1,23 +1,34 @@
 package Homework_7;
 
+/*
+Создать программу для имитации работы клиники. Пусть в клинике будет три врача: хирург, терапевт и дантист.
+Каждый врач имеет метод «лечить», но каждый врач лечит по-своему. Так же предусмотреть класс «Пациент» с полем
+«План лечения» и полем «Доктор». Создать объект класса «Пациент» и добавить пациенту план лечения. У терапевта создать
+метод, который будет назначать врача пациенту согласно плану лечения:
+Если план лечения имеет код 1 – назначить хирурга и выполнить метод лечить.
+Если план лечения имеет код 2 – назначить дантиста и выполнить метод лечить.
+Если план лечения имеет любой другой код – назначить терапевта и выполнить метод лечить.
+ */
+
+
 public class MyMain {
     public static void main(String[] args) {
-
         createClinic();
     }
 
     public static void createClinic() {
+
         Doctors[] clinic = new Doctors[]{
-                new Surgeon("Surgeon", "Ivan", 38),
-                new Therapist("Therapist", "Petr", 27),
-                new Dentist("Dentist", "Pavel", 43),
+                new Surgeon("Surgeon", "Ivan"),
+                new Dentist("Dentist", "Pavel"),
+                new Therapist("Therapist", "Petr")
         };
-        for (Doctors doctor : clinic) {
-            System.out.println(doctor.getDoctorFullInformation());
-            doctor.treatment();
-            System.out.println("_______________________________________________________________");
+
+        Patient patient = new Patient("Eva");
+        Therapist.chooseTreatmentPlan(patient, clinic);
+        System.out.println("_______________________________________________________________");
+        System.out.println(patient.getDoctor().getDoctorFullInformation());
+        System.out.println(patient.getName());
         }
-
-
     }
-}
+
