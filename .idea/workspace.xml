@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Homework_8" />
+    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Homework_8">
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,22 +73,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Task_1.executor": "Run",
-    "Application.Task_2.executor": "Run",
-    "Application.Task_3.executor": "Run",
-    "Application.Task_4.executor": "Run",
-    "Application.Task_5.executor": "Run",
-    "Application.Task_Dop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Homework__8",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_Dop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Homework__8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Task_4">
     <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework_4.Task_1" />
