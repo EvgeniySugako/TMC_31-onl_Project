@@ -4,23 +4,20 @@ public class Animals {
     private final String animalsName;
     private final String animalsType;
 
-    public Animals(String animalsName, String instrumentType) {
+    public Animals(String animalsName, String animalsType) {
         this.animalsName = animalsName;
         this.animalsType = animalsType;
     }
 
-    // Abstract method has no body just signature
-    public abstract String sound();
+    public void voice() {
+    }
 
-    public abstract String speed();
-
-    public abstract void getAdditionalData(String[] data);
+    public void eat(String food) {
+    }
 
     @Override
     public String toString() {
-        return "Instruments{" +
-                "animalsName='" + animalsName + '\'' +
-                ", animalsType='" + animalsType + '\'' +
-                '}';
+        return "animalsName: " + this.animalsName + '\n' +
+                "animalsType: " + animalsType;
     }
 }

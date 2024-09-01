@@ -17,34 +17,15 @@ public class MyMain {
         Animals[] animals = new Animals[]{
                 new Dog("Tuzik", "Dog"),
                 new Tiger("Fred", "Tiger"),
-                new Rabbit("Zay", "Rabbit"),
+                new Rabbit("Mike", "Rabbit"),
         };
-
-        GuitarFender fenderGuitar = new GuitarFender("Jack", "Fender");
-        fenderGuitar.onlyForGuitars();
-
-        Instruments duduk = new Duduk("Goisha", "Duduk");
-        duduk.getAdditionalData(new String[]{"One", "Two", "Three"});
-        Instruments piano = new Piano("Depp", "Piano");
-        piano.getAdditionalData(new String[]{"Klavier 1", "Klavier 2"});
-
-        // Abstract methods
-
-        // Interfaces
-        // Interface as enum
-        // Implementation vs. Realization
-        // Interface as a multi-inheritance
-        // Naming clashes
-        // Marker interface
-        // Function interface
-
-        // Overload late-binding
-    }
-
-    // Instruments[] instruments
-    public static void getInstruments(Instruments... instruments) {
-        for (Instruments instrument : instruments) {
-            System.out.println(instrument);
+        for (Animals animal : animals) {
+            System.out.println(animal);
+            animal.eat("Meat");
+            animal.voice();
+            System.out.println("------------------------------");
         }
     }
 }
+
+
