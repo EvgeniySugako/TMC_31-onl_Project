@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Homework_8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_8/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_8/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_8/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_8/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_8/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_8/MyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_8/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_8/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_8/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_8/Tiger.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Homework_8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724946808331</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework_8">
+      <option name="closed" value="true" />
+      <created>1725193696550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725193696551</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework_8">
+      <option name="closed" value="true" />
+      <created>1725194225703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725194225703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
