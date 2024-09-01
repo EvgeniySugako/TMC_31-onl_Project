@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Homework_8" />
+    <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="Homework_8">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework_8/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +85,7 @@
     "Application.Task_5.executor": "Run",
     "Application.Task_Dop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Homework__8",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
