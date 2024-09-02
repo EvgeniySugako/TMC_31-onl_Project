@@ -1,4 +1,4 @@
-package Homework_9.Task_1.Company;
+package Homework_9.Company;
 
 public class Worker extends Position {
     public Worker(String name, String task) {

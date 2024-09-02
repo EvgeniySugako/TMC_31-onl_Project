@@ -1,4 +1,4 @@
-package Homework_9.Task_1.Company;
+package Homework_9.Company;
 
 public class Director extends Position {
     public Director(String name, String task) {

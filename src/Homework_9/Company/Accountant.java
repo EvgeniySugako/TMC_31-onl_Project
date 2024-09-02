@@ -1,4 +1,4 @@
-package Homework_9.Task_1.Company;
+package Homework_9.Company;
 
 public class Accountant extends Position {
     public Accountant(String name, String task) {
