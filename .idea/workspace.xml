@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea23af9-f9f1-497c-8684-8d672c9457c6" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/src/Homework_3/Task_from_1_to_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_10/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_10/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework_10/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework_10/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MyMain.executor": "Run",
     "Application.Task_1.executor": "Run",
     "Application.Task_2.executor": "Run",
     "Application.Task_3.executor": "Run",
@@ -78,14 +80,27 @@
     "Application.Task_5.executor": "Run",
     "Application.Task_Dop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Homework__3",
+    "git-widget-placeholder": "Homework__10",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_from_1_to_5">
+  <component name="RunManager" selected="Application.MyMain">
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_10.MyMain" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework_1.Task_2" />
       <module name="Homework" />
@@ -140,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.Task_from_1_to_5" />
         <item itemvalue="Application.Task_4" />
         <item itemvalue="Application.Task_3" />
         <item itemvalue="Application.Task_2" />
-        <item itemvalue="Application.Task_4" />
       </list>
     </recent_temporary>
   </component>
